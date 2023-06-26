@@ -1,2 +1,3 @@
 .conda/
 data/
+mnist_classifier_model.pth
